@@ -32,7 +32,7 @@
   @import '@/styles/variables.scss';
   .header{
     height: $headerHeight;
-    background-color: #41B883;
+    background-color: #13C2C2;
     width: 100%;
     .menuModule{
         margin-left:230px;
